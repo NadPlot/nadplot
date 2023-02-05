@@ -4,15 +4,16 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0-007899259">
+    <a href="https://career.habr.com/nadplot">
+        <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white%22%20alt=%22Habr"/>
+    </a>
+    <a href="www.linkedin.com/in/nadplot">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://t.me/NadPlot">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="https://career.habr.com/nadplot">
-		<img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white%22%20alt=%22Habr"/>
-    </a>
+    
 </div>
 <hr>
 
@@ -26,7 +27,7 @@
 
 *Интересна сфера разработки веб-приложений, API, а также работа с БД, большими объемами данных*.
 
-##### Июль 2021 - по настоящее время
+##### Проекты
 
 - Приняла участие в интенсиве по Python от Y_lab University (3 недели), задачей которого было написать **REST API** по работе с меню ресторана.
 Задачи и код интенсива:
