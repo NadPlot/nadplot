@@ -4,15 +4,16 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://career.habr.com/nadplot">
-        <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white%22%20alt=%22Habr"/>
-    </a>
-    <a href="www.linkedin.com/in/nadplot">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
     <a href="https://t.me/NadPlot">
 	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
+    <a href="https://career.habr.com/nadplot">
+        <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white%22%20alt=%22Habr"/>
+    </a>
+    <a href="https://www.linkedin.com/in/nadplot/)">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    
     
 </div>
 <hr>
