@@ -10,7 +10,7 @@
     <a href="https://career.habr.com/nadplot">
         <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white%22%20alt=%22Habr"/>
     </a>
-    <a href="https://www.linkedin.com/in/nadplot/)">
+    <a href="https://www.linkedin.com/in/nadplot/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     
