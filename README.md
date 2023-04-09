@@ -13,9 +13,8 @@
     <a href="https://www.linkedin.com/in/nadplot/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    
-    
 </div>
+
 <hr>
 
 <div id="about" align="left">
@@ -23,7 +22,7 @@
 Знаю основы **Python**, **Django** и **FastAPI**. Окончила курсы по направлению Python-разработчик.
 Программирую на python более года. Уверенно пользуюсь командной строкой **Linux**, **Git**.
 
-Владею основами **SQL (PostgreSQL)**, понимаю основы структуры **HTML**.
+Владею основами **SQL (PostgreSQL)**, знаю основы структуры **HTML**, знакома с **MongoDB** (в процессе изучения).
 Активно изучаю и умею использовать в работе **Docker** и **Docker-compose**.
 
 *Интересна сфера разработки веб-приложений, API, а также работа с БД, большими объемами данных*.
