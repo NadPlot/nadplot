@@ -19,15 +19,13 @@
 
 <div id="about" align="left">
 	
-Знаю основы **Python**, **Django** и **FastAPI**. Окончила курсы по направлению Python-разработчик.
-Программирую на python более года. Уверенно пользуюсь командной строкой **Linux**, **Git**.
+I have a basic knowledge of **Python**, **Django** and **FastAPI**. I completed a Python developer course and have been programming in Python for over a year. I also know how to use the **Linux** command line and **Git**.	
 
-Владею основами **SQL (PostgreSQL)**, знаю основы структуры **HTML**, знакома с **MongoDB** (в процессе изучения).
-Активно изучаю и умею использовать в работе **Docker** и **Docker-compose**.
+I have a basic knowledge of **SQL (PostgreSQL)**, a basic knowledge of **HTML** structure, and a familiar understanding of **MongoDB** (in the process of learning). I am actively learning and know how to use **Docker** and **Docker-compose** in my work.
 
-*Интересна сфера разработки веб-приложений, API, а также работа с БД, большими объемами данных*.
+*Interested in the area of web application development, APIs, and working with database, big data*.
 
-##### Проекты
+##### Projects
 
 - Приняла участие в интенсиве по Python от Y_lab University (3 недели), в результате написан **REST API** по работе с меню ресторана.
 Задачи и код интенсива:
