@@ -37,7 +37,7 @@ I have a basic knowledge of **SQL (PostgreSQL)**, a basic knowledge of **HTML** 
 - Выполнено 2 учебных проекта на **Django**: <a href="https://github.com/NadPlot/StudyProjects.git">Django projects</a>.
 В рамках проектов реализовано: авторизация пользователей средствами Django и django-allauth, автоматическая рассылка писем, выполнение задач по расписанию (Celery, Redis) и др.
 
-- Был написан учебный Телеграм бот с функцией конвертации валют: <a href="https://github.com/NadPlot/StudyProjects/tree/main/TelegramBot">Телеграм бот</a>	
+- Created a simple bot using Python and the Telegram Bot API: @Fedot and a simple currency converter bot  <a href="https://github.com/NadPlot/StudyProjects/tree/main/TelegramBot">Телеграм бот</a>	
 </div>
 <hr>
 
