@@ -44,3 +44,7 @@ I have a basic knowledge of **SQL (PostgreSQL)**, a basic knowledge of **HTML** 
 <div id="skills">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="js" width="60" height="60"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" title="django" width="60" height="60"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" width="60" height="60"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgres" width="60" height="60"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="60" height="60"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="docker" width="60" height="60"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="60" height="60"/>&nbsp;
 </div>
+
+<div id="Additional">
+ - <a href="https://realpython.com/certificates/7b2fb073-2c01-4bab-836a-0c5312b3ac17/">Continuous Integration With Python on Real Python</a>
+</div>
