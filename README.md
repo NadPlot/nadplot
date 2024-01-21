@@ -46,8 +46,10 @@ I have a basic knowledge of **SQL (PostgreSQL)**, a basic knowledge of **HTML** 
 </div>
 
 <hr>
+
 ##### Additional trainig
 
 <div id="Additional">
  - <a href="https://realpython.com/certificates/7b2fb073-2c01-4bab-836a-0c5312b3ac17/">Continuous Integration With Python on Real Python</a>
+ - <a href="https://realpython.com/certificates/3baff028-1786-4484-b417-a29883f291d9/">Web Scraping With Beautiful Soup and Python on Real Python</a>
 </div>
