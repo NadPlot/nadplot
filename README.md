@@ -19,7 +19,7 @@
 
 <div id="about" align="left">
 	
-I have a basic knowledge of **Python**, **Django** and **FastAPI**. I completed a Python developer course and have been programming in Python for over a year. I also know how to use the **Linux** command line and **Git**.	
+I have a basic knowledge of **Python**, **Django** and **FastAPI**. I completed a Python developer course and I also know how to use the **Linux** command line and **Git**.	
 
 I have a basic knowledge of **SQL (PostgreSQL)**, a basic knowledge of **HTML** structure, and a familiar understanding of **MongoDB** (in the process of learning). I am actively learning and know how to use **Docker** and **Docker-compose** in my work.
 
