@@ -7,12 +7,6 @@
     <a href="https://t.me/NadPlot">
 	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="https://career.habr.com/nadplot">
-        <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white%22%20alt=%22Habr"/>
-    </a>
-    <a href="https://www.linkedin.com/in/nadplot/">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
 </div>
 
 <hr>
@@ -27,15 +21,15 @@ I have a basic knowledge of **SQL (PostgreSQL)**, a basic knowledge of **HTML** 
 
 ##### Projects
 
-- Приняла участие в интенсиве по Python от Y_lab University (3 недели), в результате написан **REST API** по работе с меню ресторана.
-Задачи и код интенсива:
+- Participated in a Python intensive at Y_lab University (3 weeks), as a result I wrote a **REST API** for working with restaurant menus.
+Tasks and code from the intensive:
 <a href="https://github.com/NadPlot/Y_lab.git">Y_lab</a>.
 
-- Успешно прошла виртуальную стажировку, в результате которой был написан **REST API (FastAPI)** для мобильного приложения Федерации спортивного туризма России. API для приложения (Android, iOS) позволяет отправлять туристам данные о перевалах.
-ТЗ стажировки и код: <a href="https://github.com/NadPlot/Virtual-Internship.git">Virtual-Internship</a>.
+- Successfully completed a virtual internship, which resulted in writing **REST API (FastAPI)** for the mobile application of the Russian Sports Tourism Federation. The API for the application (Android, iOS) allows sending data on mountain passes to tourists.
+Internship ToR and code: <a href="https://github.com/NadPlot/Virtual-Internship.git">Virtual-Internship</a>.
 
-- Выполнено 2 учебных проекта на **Django**: <a href="https://github.com/NadPlot/StudyProjects.git">Django projects</a>.
-В рамках проектов реализовано: авторизация пользователей средствами Django и django-allauth, автоматическая рассылка писем, выполнение задач по расписанию (Celery, Redis) и др.
+- Completed 2 training projects in **Django**: <a href="https://github.com/NadPlot/StudyProjects.git">Django projects</a>.
+The projects include: user authorisation using Django and django-allauth, automatic mailing, scheduled tasks (Celery, Redis) and others.
 
 - Created a simple bot using Python and the Telegram Bot API: <a href="https://t.me/nadplot_bot">Fedot</a> and a simple currency converter bot  <a href="https://github.com/NadPlot/StudyProjects/tree/main/TelegramBot">Телеграм бот</a>	
 </div>
